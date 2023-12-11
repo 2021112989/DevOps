@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import static org.junit.Assert.assertEquals;
 
 import Lab2.Solution8;
-public class L2021112989_8_Test {
+public class Solution8Test {
     /*
     * testing strategy
     * 1. 当grid为null
