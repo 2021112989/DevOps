@@ -1,11 +1,9 @@
-package Lab2;
-
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.Assert.assertEquals;
 
-
+import Lab2.Solution8;
 public class L2021112989_8_Test {
     /*
     * testing strategy
